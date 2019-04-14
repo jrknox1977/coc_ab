@@ -13,7 +13,7 @@ while True:
         pyautogui.click((elixer.left + 20), (elixer.top + 20))
         pyautogui.click((elixer.left + 20), (elixer.top + 20))
     if gold is not None:
-        pyautogui.click((gold.left + 20), (gold.top = + 20))
+        pyautogui.click((gold.left + 20), (gold.top + 20))
         pyautogui.click((gold.left + 20), (gold.top + 20))
     time.sleep(60)
 
